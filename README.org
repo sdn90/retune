@@ -1,0 +1,11 @@
+* Retune
+Experimental [[https://en.wikipedia.org/wiki/Music_tracker][music tracker]] for the browser.
+
+** Features
+- Designed for readability
+- VIM inspired keybindings
+
+** Inspiration
+- [[http://renoise.com][Renoise]] (OS X, Linux, Windows)
+- [[https://en.wikipedia.org/wiki/Protracker][Protracker]] (Amiga)
+- [[https://en.wikipedia.org/wiki/OctaMED][Octamed]] (Amiga)
